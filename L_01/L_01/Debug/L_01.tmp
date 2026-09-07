@@ -25,8 +25,8 @@
   <start><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>46</LINE></start>
   <on_off><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>73</LINE></on_off>
   <verify_push><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>51</LINE></verify_push>
-  <delay><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>86</LINE></delay>
-  <c2><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>87</LINE></c2>
-  <c1><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>88</LINE></c1>
+  <delay><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>87</LINE></delay>
+  <c2><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>88</LINE></c2>
+  <c1><FILE>C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm</FILE><LINE>89</LINE></c1>
  </LABELS>
 </ASSEMBLER_INFO>

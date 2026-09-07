@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.8  C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm Wed Sep 02 17:36:18 2026
+AVRASM ver. 2.2.8  C:\Users\Diego\Documents\Repo\assembler\L_01\L_01\main.asm Mon Sep 07 16:36:51 2026
 
 
 EQU  SIGNATURE_000 0000001e
@@ -701,6 +701,6 @@ DEF  multiplier   r18
 CSEG start        0000000d
 CSEG on_off       00000016
 CSEG verify_push  0000000f
-CSEG delay        0000001b
-CSEG c2           0000001b
-CSEG c1           0000001c
+CSEG delay        0000001c
+CSEG c2           0000001c
+CSEG c1           0000001d

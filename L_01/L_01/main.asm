@@ -73,6 +73,7 @@ verify_push:
 on_off:
 	sbi PORTB,PB0 ;Enciende bit
 	rcall delay ;Espera
+	ldi counter,20
 	cbi PORTB,PB0 ;Apaga bit
 	rcall delay ;Espera
 	ret
